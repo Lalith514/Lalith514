@@ -286,6 +286,8 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Lalith514" alt="visitor badge"/>       
 </p>
 
+[![Lalith514's GitHub | Stats](https://stats.quine.sh/Lalith514/github?theme=dark)](https://quine.sh)
+
 
 [![Lalith514's GitHub | Languages Over Time](https://stats.quine.sh/Lalith514/languages-over-time?theme=dark)](https://quine.sh)
 
